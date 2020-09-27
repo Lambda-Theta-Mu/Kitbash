@@ -492,7 +492,7 @@ root{
 }
 
 #ace_settingsmenu{
-    left: 0;
+    left: 1;
     padding-top: 20px !important;
 }
 
@@ -3204,7 +3204,7 @@ div[data-no-focus-lock="true"] .popouts-2bnG9Z+div .modal-3c3bKg{
     display: none;
 }
 
-[aria-label="Powercord, powercord.png"]::before{
+	[aria-label="Powercord, powercord.png"]::before{
     background: #7289DA;
     opacity: .3 !important;
 }
