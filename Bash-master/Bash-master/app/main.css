@@ -478,7 +478,7 @@ root{
     font-family:'Blox (BRK)';
     position: absolute;
     display: block;
-    content: "BaSh";
+    content: "Fuck";
     font-size: 60px;
     left: 50%;
     transform: translateX(-50%);
@@ -492,7 +492,7 @@ root{
 }
 
 #ace_settingsmenu{
-    left: 500;
+    left: 0;
     padding-top: 20px !important;
 }
 
